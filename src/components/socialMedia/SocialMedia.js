@@ -20,6 +20,7 @@ export default function socialMedia(props) {
         return (
           <a
             href={media.link}
+            key={media.fontAwesomeIcon}
             className={`icon-button`}
             target="_blank"
             rel="noopener noreferrer"
