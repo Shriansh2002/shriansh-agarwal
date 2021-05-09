@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -48,7 +48,7 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:shrinashcoding@gmail.com",
+    link: "mailto:shrianshcoding@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -207,7 +207,7 @@ const certifications = {
       subtitle: "- Cognitive Class & IBM",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+        "https://courses.cognitiveclass.ai/certificates/fa6e125fba964f519258f9e33fd40558",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
