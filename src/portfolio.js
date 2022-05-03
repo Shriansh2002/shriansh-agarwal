@@ -23,14 +23,14 @@ const greeting = {
   logo_name: "ShrianshAgarwal",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  portfolio_repository: "https://github.com/ShrianshCodingTutorials",
+  portfolio_repository: "https://github.com/Shriansh2002",
 };
 
 const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/ShrianshCodingTutorials",
+    link: "https://github.com/Shriansh2002",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
